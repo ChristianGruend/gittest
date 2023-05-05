@@ -1,3 +1,4 @@
 Hallo!
 Wie geht es dir?
-Mir geht es hervorragend!
+Mir geht es hervorragend
+Dass freut mich zu hören. 
